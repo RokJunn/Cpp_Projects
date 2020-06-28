@@ -1,2 +1,4 @@
 # C-Projects
-practice for univ[PNU]
+Cprojects for pratice [Univ]
+
+2020_1st semester c++ Programming
