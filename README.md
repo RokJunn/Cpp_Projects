@@ -1,4 +1,4 @@
-# C-Projects
-Cprojects for pratice [Univ]
+# C++-Projects
+C++ projects for univ.
 
 2020_1st semester c++ Programming
